@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 18px;
+}
+
+body {
+    height: 100vh;
+}
+
+/* Nav Bar */
+
+.navbar {
+    height: 120px;
+    background-color: rgb(198, 58, 58);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 70px;
+}
+.navbar__logo {
+    width: 150px;
+    height: 100px;
+
+}
+
+.navbar__search {
+    width: 320px;
+    height: 30px;
+    border-radius: 16px;
+    padding: 0 20px;
+}
+
+.navbar__menu {
+    display: flex;
+    list-style: none;
+    gap: 18px; 
+}
+
+.navbar__item {
+    background-color: rgba(3, 3, 3, 0.800);
+    color: rgb(253, 253, 253);
+    border-radius: 24px;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.navbar__item:hover {
+    background-color: rgba(253, 253, 253);
+    color: rgb(3, 3, 3, 0.800);
+}
+
+/* Badge, Card */
+.badge{
+    border-radius: 2rem;
+    padding: 5px 10px;
+
+}
+
+/* Hero */
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px;
+}
+.hero__titulo{
+    font-size: 64px;
+
+}
+.hero__text{
+    font-size: 24px;
+    margin-top: 20px;
+}
+.hero__img{
+    height: 420px; 
+    display: inline-block;
+}
+.hero__badge{
+    background-color: rgb(254, 168, 137);
+    margin-bottom: 12px;
+    display: inline-block;
+    
+}
