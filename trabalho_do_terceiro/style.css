@@ -57,6 +57,12 @@ body {
     padding: 5px 10px;
 
 }
+.card{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 1rem;
+    background-color: rgb(255, 255, 255);
+    width: 324px;
+}
 
 /* Hero */
 
@@ -81,5 +87,42 @@ body {
     background-color: rgb(254, 168, 137);
     margin-bottom: 12px;
     display: inline-block;
+    
+}
+
+/* Noticias */
+.noticia{
+    padding: 50px 100px;
+}
+.noticia__header {
+    margin-bottom: 20px;
+}
+.noticia__card {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    padding: 16px;
+}
+
+.noticia__img{
+    height: 120px;
+    display: block;
+}
+.noticia__titulo{
+    font-size: 20px;
+}
+.noticia__text{
+    display: block;
+    margin-top: 8px;
+}
+.noticia__badge{
+    background-color: rgb(254, 137, 137);
+    display: inline-block;
+}
+.noticia__container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    border: 1px solid rgb(0, 0, 0);
     
 }
