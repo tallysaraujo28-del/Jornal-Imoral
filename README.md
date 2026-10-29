@@ -5,7 +5,7 @@
 
 ## 2. Integrantes
 Tallys Rafael Silva de Araújo e 
-Martiniano
+Martiniano Soares Dantas
 
 ## 3. Tema escolhido
 Jornal satírico de desinformação (notícias falsas, feitas de forma fictícia e humorística). A manchete de exemplo anuncia que "Romerito Campos de Andrade foi eleito presidente do Brasil com 60% dos votos". Todo o conteúdo é fictício.
