@@ -33,3 +33,35 @@
 ## Decisão do grupo
 - Cores dos botões
 - Cor da pagina
+
+# Dia 28/10
+
+## Integrantes envolvidos
+- Martiniano Dantas
+
+## O que foi feito
+- Criação dos primeiros Cards
+- Seção de Noticias criado
+
+## Uso de IA
+- Criação de Imagens
+
+## Decisão do grupo
+- Modelos dos Cards
+- Criação das notícias 
+
+# Dia 29/10
+
+## Integrantes envolvidos
+- Martiniano Dantas
+
+## O que foi feito
+- Implementação de mais Cards
+- terminado sessões de noticias
+
+## Uso de IA
+- Criação de Imagens
+
+## Decisão do grupo
+- Modelos dos Cards
+- Criação das notícias
