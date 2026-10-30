@@ -9,7 +9,7 @@
 </head>
 <body>
 
-    <head>
+    <header>
         <!-- NAVBAR -->
         <nav class="navbar">
             <img src="./Imagens/IMG_LOGO.png" alt="Logo" class="navbar__logo">
@@ -21,13 +21,13 @@
             </ul>
 
         </nav>
-    </head>
+    </header>
 
     <main>
         <!-- hero -->
         <section class="hero" id="Principal_Manchete">
             <div>
-                <span class="badge hero__badge">Urgente</span>
+                <span class="badge hero__badge badge--hero">Urgente</span>
                 <h1 class="hero__titulo">Romerito Campos de Andrade foi eleito a presidente do Brasil com 60% dos votos</h1>
                 <p class="hero__text">Apos um disputa acirrada entre os candidatos, Romerito Campos de Andrade foi eleito a presidente do Brasil com 60% dos votos.</p>
             </div>
@@ -35,9 +35,11 @@
                 <img src="./Imagens/IMG_PRINCIPAL.png" alt="Logo" class="hero__img">
             </div>
         </section>
+        
+        <!-- Últimas Notícias -->
         <section id="Ultimas_Noticias" class="noticia">
             <div class="noticia__header">
-                <span class="badge noticia__badge">Novidades</span>
+                <span class="badge noticia__badge badge--noticia">Novidades</span>
             </div>
             <div class="noticia__container">
                 <article class="card noticia__card">
@@ -88,6 +90,18 @@
                     </div>
                 </article>
             </div>
+        </section>
+        <section id="Newsletter" class="newsletter">
+            <div class="newsletter__container">
+                <span class="badge newsletter__badge badge--newsletter">Newsletter</span>
+                <h2 class="newsletter__titulo">Inscreva-se na nossa Newsletter</h2>
+                <p class="newsletter__text">Receba as últimas notícias e atualizações diretamente na sua caixa de entrada.</p>
+                <form class="newsletter__form">
+                    <input type="email" placeholder="Digite seu email" class="newsletter__input">
+                    <button type="submit" class="btn newsletter__btn">Inscrever-se</button>
+                </form>
+            </div>
+            
         </section>
     </main>
     <footer></footer>
