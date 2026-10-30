@@ -49,21 +49,11 @@ Arquivo: `trabalho_do_terceiro/style.css`
 - **`.navbar__menu`**: `display: flex; gap: 18px;`. Deixa os itens do menu lado a lado, com espaçamento entre eles.
 - **`.hero`**: `display: flex; justify-content: space-between;`. Divide a seção em duas colunas, com o texto de um lado e a imagem do outro.
 
-## 9. Diário de bordo
-> **Preencher:** adicione aqui o link ou a descrição do diário de bordo.
 
-Link: _(inserir link do diário de bordo)_
-
-Modelo de descrição, se preferir escrever aqui:
-- **Etapa 1:** definição do tema e do nome do jornal.
-- **Etapa 2:** estruturação do HTML (navbar e hero).
-- **Etapa 3:** estilização com CSS e organização com Flexbox.
-- **Etapa 4:** testes e ajustes finais.
-
-## 10. Observações sobre o uso de IA.
+## 9. Observações sobre o uso de IA.
 Poucas vezes ou nulas ultilizamos a IA.
 
-# 11. Instruções para abrir o projeto
+# 10. Instruções para abrir o projeto
 1. Baixe o projeto (**Code > Download ZIP** no GitHub) ou clone o repositório:
    ```bash
    git clone https://github.com/<seu-usuario>/Jornal-Imoral.git
