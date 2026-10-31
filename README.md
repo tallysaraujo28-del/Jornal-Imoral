@@ -68,11 +68,10 @@ Poucas vezes ou nulas ultilizamos a IA.
 Jornal-Imoral/
 ├── README.md
 └── trabalho_do_terceiro/
-    ├── index.html
-    ├── componentes.html
-    ├── style.css
     ├── imagens/
     ├── docs/
         ├── diario-de-bordo.md
-        └── wireframe.md
+    ├── index.html
+    ├── componentes.html
+    ├── style.css
 ```
