@@ -85,7 +85,7 @@
 # Dia 31
 
 ## Integrantes envolvidos
--Martiniano Dantas
+- Martiniano Dantas
 
 ## O que foi feito
 - Rodapé
