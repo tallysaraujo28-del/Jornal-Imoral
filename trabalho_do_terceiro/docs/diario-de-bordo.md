@@ -73,6 +73,7 @@
 
 ## O que foi feito
 - Criação do Newsletter
+- Criação pde novas classes pro badge
 
 ## Uso de IA
 - Sugestão de cores do Badge
@@ -80,3 +81,18 @@
 
 ## Decisão do Grupo
 - Modelo do Newsletter
+
+# Dia 31
+
+## Integrantes envolvidos
+-Martiniano Dantas
+
+## O que foi feito
+- Rodapé
+- Biblioteca finalizada
+
+## Uso de IA
+- Sugestões de tags
+
+## Decisão do Grupo
+- Design do rodapé
