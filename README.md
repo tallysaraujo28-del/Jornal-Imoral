@@ -69,8 +69,10 @@ Jornal-Imoral/
 ├── README.md
 └── trabalho_do_terceiro/
     ├── index.html
+    ├── componentes.html
     ├── style.css
-    └── Imagens/
-        ├── IMG_LOGO.png
-        └── IMG_PRINCIPAL.png
+    ├── imagens/
+    ├── docs/
+        ├── diario-de-bordo.md
+        └── wireframe.md
 ```
