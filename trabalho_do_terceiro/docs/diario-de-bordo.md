@@ -75,7 +75,8 @@
 - Criação do Newsletter
 
 ## Uso de IA
-- Sugestão de cores
+- Sugestão de cores do Badge
+- Ideias de Classes
 
 ## Decisão do Grupo
 - Modelo do Newsletter
