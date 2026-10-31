@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca de Componentes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Biblioteca de Componentes</h1>
+    <br>
+
+    <section>
+        <h2>Navbar</h2>
+        <br>
+        <nav class="navbar">
+            <img src="./Imagens/IMG_LOGO.png" alt="Logo" class="navbar__logo">
+            <input type="search" placeholder="O que você está procurando?" class="navbar__search">
+            <ul class="navbar__menu">
+                <li><a class="navbar__item" href="#">Manchete Principal</a></li>
+                <li><a class="navbar__item" href="#">Últimas Notícias</a></li>
+                <li><a class="navbar__item" href="#">Newsletter</a></li>
+            </ul>
+        </nav>
+    </section>
+    <br>
+
+    <section>
+        <h2>Badges e Botões</h2>
+        <br>
+        <span class="badge badge--hero">Urgente</span>
+        <span class="badge badge--noticia">Novidades</span>
+        <span class="badge badge--newsletter">Newsletter</span>
+        <button type="button" class="btn newsletter__btn">Inscrever-se</button>
+    </section>
+    <br>
+    <section>
+        <h2>Hero</h2>
+        <section class="hero">
+            <div>
+                <span class="badge hero__badge badge--hero">Urgente</span>
+                <h1 class="hero__titulo">Romerito Campos de Andrade foi eleito presidente do Brasil</h1>
+                <p class="hero__text">A disputa foi acirrada, mas o candidato venceu com grande apoio da população.</p>
+            </div>
+            <div>
+                <img src="./Imagens/IMG_PRINCIPAL.png" alt="Imagem principal" class="hero__img">
+            </div>
+        </section>
+    </section>
+
+    <section>
+        <h2>Cards de Notícias</h2>
+        <article class="card noticia__card">
+            <img src="./Imagens/NOTICIA_1.png" alt="Notícia 1" class="noticia__img">
+            <div class="noticia__content">
+                <h2 class="noticia__titulo">Contratação do Tottenham</h2>
+                <p class="noticia__text">Luis Felipe é o novo atleta do Tottenham Hotspur.</p>
+            </div>
+        </article>
+        <article class="card noticia__card">
+            <img src="./Imagens/NOTICIA_2.png" alt="Notícia 2" class="noticia__img">
+            <div class="noticia__content">
+                <h2 class="noticia__titulo">Jacinto é eleito</h2>
+                <p class="noticia__text">Jacinto foi eleito a senado do Rio Grande do Norte.</p>
+            </div>
+        </article>
+
+        <article class="card noticia__card">
+            <img src="./Imagens/NOTICIA_3.png" alt="Notícia 3" class="noticia__img">
+            <div class="noticia__content">
+                <h2 class="noticia__titulo">Maior nota do Enem</h2>
+                <p class="noticia__text">Estudante Tally obtém pontuação máxima em prova do vestibular.</p>
+            </div>
+        </article>
+
+        <article class="card noticia__card">
+            <img src="./Imagens/NOTICIA_4.png" alt="Notícia 4" class="noticia__img">
+            <div class="noticia__content">
+                <h2 class="noticia__titulo">Novidades no Vasco</h2>
+                <p class="noticia__text">O Vasco anuncia nova contratação para o elenco. Esse jovem talento entra para o time com grande promessa.</p>
+            </div>
+        </article>
+
+        <article class="card noticia__card">
+            <img src="./Imagens/NOTICIA_5.png" alt="Notícia 5" class="noticia__img">
+            <div class="noticia__content">
+                <h2 class="noticia__titulo">Pelizinho no Barcelo</h2>
+                <p class="noticia__text">Pelizinho é o novo atleta do Barcelo. Conhecindo como o novo Pele para os Brasileiros.</p>
+            </div>
+        </article>
+
+        <article class="card noticia__card">
+            <img src="./Imagens/NOTICIA_6.png" alt="Notícia 6" class="noticia__img">
+            <div class="noticia__content">
+                <h2 class="noticia__titulo">Novo GM no Xadrez</h2>
+                <p class="noticia__text">Martiniano consegui o titulo de Grande Mestre no Xadrez. Segundo ele foram 8 anos de muita dedicação.</p>
+            </div>
+        </article>
+    </section>
+    <br>
+
+    <section>
+        <h2>Newsletter</h2>
+        <section class="newsletter">
+            <div class="newsletter__container">
+                <span class="badge newsletter__badge badge--newsletter">Newsletter</span>
+                <h2 class="newsletter__titulo">Inscreva-se na nossa Newsletter</h2>
+                <p class="newsletter__text">Receba as últimas notícias e atualizações diretamente na sua caixa de entrada.</p>
+                <form class="newsletter__form">
+                    <input type="email" placeholder="Digite seu email" class="newsletter__input">
+                    <button type="submit" class="btn newsletter__btn">Inscrever-se</button>
+                </form>
+            </div>
+        </section>
+    </section>
+
+    <section>
+        <h2>Rodapé</h2><br>
+        <footer class="Rodape">
+            <nav class="Rodape__Links" aria-label="Links do rodapé">
+                <div class="Rodape__Coluna">
+                    <a href="#" class="Rodape__link">Sobre Nós</a>
+                    <a href="#" class="Rodape__link">Contatos</a>
+                    <a href="#" class="Rodape__link">Expediente</a>
+                </div>
+                <div class="Rodape__Coluna">
+                    <a href="#" class="Rodape__link">Termo de Uso</a>
+                    <a href="#" class="Rodape__link">Política de Privacidade</a>
+                    <a href="#" class="Rodape__link">Publicidade</a>
+                </div>
+            </nav>
+            <div class="Rodape__direito">
+                <small>&copy; Todos os direitos reservados</small>
+            </div>
+        </footer>
+    </section>
+</body>
+</html>
