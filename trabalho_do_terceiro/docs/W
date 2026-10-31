@@ -1,0 +1,22 @@
+┌─────────────────────────────────────────────────────────┐
+│ Navbar: Logo | Busca [Input] | Links de Categorias      │
+├─────────────────────────────────────────────────────────┤
+│ Manchete Principal                                      │
+│                                                         │
+│ [ Imagem Grande ]                                       │
+│ [ Badge: Urgente ]                                      │
+│ Título da Notícia Principal                             │
+│ Resumo da notícia...                       [Leia mais]  │
+├─────────────────────────────────────────────────────────┤
+│ Últimas Notícias                                        │
+│                                                         │
+│ [Card Padrão]        [Card Padrão]       [Card Padrão]  │
+│ [Card Padrão]        [Card Padrão]       [Card Padrão]  │
+├─────────────────────────────────────────────────────────┤
+│ Newsletter                                              │
+│ Assine para receber atualizações:                       │
+│ [ Input: Seu melhor e-mail ] [ Botão: Inscrever-se ]    │
+├─────────────────────────────────────────────────────────┤
+│ Rodapé (Footer)                                         │
+│ Links Institucionais | Redes Sociais | Copyright        │
+└─────────────────────────────────────────────────────────┘
