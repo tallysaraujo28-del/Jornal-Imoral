@@ -212,3 +212,40 @@ body {
     color: rgb(0, 0, 0);
     cursor: pointer;
 }
+/* Rodapé */
+
+.Rodape {
+    display: flex;
+    background-color: rgb(198, 58, 58);
+    padding: 40px 80px;
+    flex-direction: column;
+}
+
+.Rodape__Links {
+    display: flex;
+    gap: 60px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.Rodape__Coluna {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.Rodape__link{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+
+.Rodape__link:hover {
+    color: black;
+}
+
+.Rodape__direito{
+
+    color: white;
+    margin-top: 24px;
+}
