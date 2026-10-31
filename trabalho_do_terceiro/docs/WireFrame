@@ -1,24 +1,26 @@
 
-┌─────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────┐
 │ Navbar: Logo | Busca [Input] | Links de Categorias      │
-├─────────────────────────────────────────────────────────┤
-│ Manchete Principal                                      │
-│                                                         │
-│ [ Imagem Grande ]                                       │
+├────────────────────────────────────────────────┤
+│ Manchete Principal                                      |
+│                                                         |
 │ [ Badge: Urgente ]                                      │
-│ Título da Notícia Principal                             │
-│ Resumo da notícia...                       [Leia mais]  │
-├─────────────────────────────────────────────────────────┤
-│ Últimas Notícias                                        │
+│ Título da Notícia Principal         [ Imagem Grande ]   │
+│ Resumo da notícia...                                    │
 │                                                         │
+│                                                         │
+├────────────────────────────────────────────────┤
+│ Últimas Notícias                                        │
+│ [ Badge: Novidades ]                                    │
 │ [Card Padrão]        [Card Padrão]       [Card Padrão]  │
 │ [Card Padrão]        [Card Padrão]       [Card Padrão]  │
-├─────────────────────────────────────────────────────────┤
-│ Newsletter                                              │
+├────────────────────────────────────────────────┤
+│ Newsletter                                              |
+│[ Badge: Newsletter]                                     |
 │ Assine para receber atualizações:                       │
-│ [ Input: Seu melhor e-mail ] [ Botão: Inscrever-se ]    │
-├─────────────────────────────────────────────────────────┤
+│ [ Input: Digite Seu e-mail ] [ Botão: Inscrever-se ]    │
+├────────────────────────────────────────────────┤
 │ Rodapé (Footer)                                         │
-│ Links Institucionais | Redes Sociais | Copyright        │
-└─────────────────────────────────────────────────────────┘
+│  Copyright| Links Institucionais                        |
+└────────────────────────────────────────────────┘
 
