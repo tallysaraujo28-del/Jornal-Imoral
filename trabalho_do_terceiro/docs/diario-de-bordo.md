@@ -65,3 +65,17 @@
 ## Decisão do grupo
 - Modelos dos Cards
 - Criação das notícias
+
+# Dia 30/10
+
+## Integrantes envolvidos
+- Martiniano Dantas
+
+## O que foi feito
+- Criação do Newsletter
+
+## Uso de IA
+- Sugestão de cores
+
+## Decisão do Grupo
+- Modelo do Newsletter
