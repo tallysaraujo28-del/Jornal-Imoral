@@ -8,7 +8,7 @@ Tallys Rafael Silva de Araújo e
 Martiniano Soares Dantas
 
 ## 3. Tema escolhido
-Jornal satírico de desinformação (notícias falsas, feitas de forma fictícia e humorística). A manchete de exemplo anuncia que "Romerito Campos de Andrade foi eleito presidente do Brasil com 60% dos votos". Todo o conteúdo é fictício.
+Jornal satírico de desinformação (notícias falsas, feitas de forma fictícia e humorística). A manchete de exemplo anuncia que "Romerito Campos de Andrade foi eleito presidente do Brasil com 67% dos votos". Todo o conteúdo é fictício.
 
 ## 4. Tipo de layout escolhido
 Layout de **portal de notícias**, em uma única página (*one page*), com:
