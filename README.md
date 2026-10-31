@@ -71,7 +71,7 @@ Jornal-Imoral/
     ├── imagens/
     ├── docs/
         ├── diario-de-bordo.md
-        ├── Wireframe.md
+        ├── WireFrame.md
     ├── componentes.html
     ├── index.html
     ├── style.css
