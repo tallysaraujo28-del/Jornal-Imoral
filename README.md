@@ -28,7 +28,7 @@ Elementos únicos, que não dependem de outros para existir:
 | Logo | `navbar__logo` | Imagem do logo do jornal (150x100 px) |
 | Campo de busca | `navbar__search` | `input type="search"` com bordas arredondadas |
 | Item de menu | `navbar__item` | Link em formato de botão arredondado, com efeito `:hover` |
-| Badge | `badge` / `hero__badge` | Etiqueta "Urgente" sobre a manchete |
+| Badge | `badge` / `hero__badge` /`badge--hero`  | Etiqueta "Urgente" sobre a manchete |
 | Título da manchete | `hero__titulo` | `h1` com a manchete principal |
 | Texto da manchete | `hero__text` | Parágrafo de apoio da notícia |
 | Imagem principal | `hero__img` | Imagem ilustrativa da manchete (420 px de altura) |
